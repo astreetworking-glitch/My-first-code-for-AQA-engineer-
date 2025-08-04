@@ -1,0 +1,10 @@
+#Русский:
+
+#Код расписал понятно все по репозиториям
+#Что бы запустить откройте с помощью пайчарма или вс кода
+
+#English:
+#This code makes an autotest on a specific site
+#the code is clearly described in the repositories
+#open it with Pycharm or VS Code
+
